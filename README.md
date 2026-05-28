@@ -1,5 +1,6 @@
 Azure Kubernetes Setup Guide (VM → K3s / K8s Cluster)
-🧱 PART 1: Create a Virtual Machine (Single Node Setup)
+
+PART 1: Create a Virtual Machine (Single Node Setup)
 Step 1: Open Azure Portal
 
 Go to:
